@@ -17,12 +17,6 @@
       "day": "May 6th at 5:50pm",
       "reminder": false,
       "id": 3
-    },
-    {
-      "text": "Visit Sheldon",
-      "day": "May 8th at 3:00pm",
-      "reminder": false,
-      "id": 4
     }
   ]
 }
